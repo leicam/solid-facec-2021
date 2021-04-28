@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Refatorado\bin\Debug\Solid.SRP.Refatorado.exe.config
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Refatorado\bin\Debug\Solid.SRP.Refatorado.exe
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Refatorado\bin\Debug\Solid.SRP.Refatorado.pdb
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Refatorado\obj\Debug\Solid.SRP.Refatorado.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Refatorado\obj\Debug\Solid.SRP.Refatorado.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Refatorado\obj\Debug\Solid.SRP.Refatorado.exe
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Refatorado\obj\Debug\Solid.SRP.Refatorado.pdb

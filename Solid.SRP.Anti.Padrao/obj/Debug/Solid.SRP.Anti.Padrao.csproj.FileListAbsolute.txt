@@ -1,0 +1,7 @@
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Anti.Padrao\bin\Debug\Solid.SRP.Anti.Padrao.exe.config
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Anti.Padrao\bin\Debug\Solid.SRP.Anti.Padrao.exe
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Anti.Padrao\bin\Debug\Solid.SRP.Anti.Padrao.pdb
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Anti.Padrao\obj\Debug\Solid.SRP.Anti.Padrao.csprojAssemblyReference.cache
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Anti.Padrao\obj\Debug\Solid.SRP.Anti.Padrao.csproj.CoreCompileInputs.cache
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Anti.Padrao\obj\Debug\Solid.SRP.Anti.Padrao.exe
+C:\Users\juliano.maciel\source\repos\Solid.Facec.2021\Solid.SRP.Anti.Padrao\obj\Debug\Solid.SRP.Anti.Padrao.pdb
