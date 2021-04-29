@@ -6,14 +6,16 @@ using System.Threading.Tasks;
 
 namespace Solid.OCP.Anti.Padrao
 {
-    public class Pedido
+    public class Cliente
     {
         public Guid Id { get; private set; } = Guid.NewGuid();
-        public Cliente Cliente { get; private set; }
+        public string Documento { get; private set; }
+        public string Nome { get; private set; }
 
-        public Pedido(Cliente cliente)
+        public Cliente(string documento, string nome)
         {
-            Cliente = cliente;
+            Documento = documento;
+            Nome = nome;
         }
     }
 }
