@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid.ISP.Anti.Padrao", "So
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solid.ISP.Refatoracao", "Solid.ISP.Refatoracao\Solid.ISP.Refatoracao.csproj", "{4D39CAE3-96DB-4903-B7D4-E443D870E502}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - DIP", "05 - DIP", "{9DD4740A-D867-4A94-9D67-D6A36D97198B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
